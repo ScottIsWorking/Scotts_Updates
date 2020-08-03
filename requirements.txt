@@ -4,7 +4,7 @@ attrs==19.3.0
 backcall==0.2.0
 bleach==3.1.5
 cffi==1.14.1
--e git+ssh://git@github.com/ScottIsWorking/crowd_truth_amt.git@cb5f2439494c356bf124399a73e91c4f7a5447c3#egg=crowdtruth_amt
+-e git@github.com:ScottIsWorking/crowd_truth_amt.git
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
