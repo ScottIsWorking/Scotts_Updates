@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+ipython = "*"
+jupyter = "*"
+crowd-truth-amt = {editable = true, git = "ssh://git@github.com/ScottIsWorking/crowd_truth_amt.git"}
+seaborn = "*"
+tqdm = "*"
+qgrid = "*"
+
+[requires]
+python_version = "3.8"
