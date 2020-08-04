@@ -9,6 +9,7 @@ verify_ssl = true
 crowd-truth-amt = {git = "https://github.com/ScottIsWorking/crowd_truth_amt.git"}
 seaborn = "*"
 jupyter-contrib-nbextensions = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.8"
