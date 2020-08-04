@@ -9,7 +9,7 @@ verify_ssl = true
 pandas = "*"
 ipython = "*"
 jupyter = "*"
-crowd-truth-amt = {editable = true, git = "ssh://git@github.com/ScottIsWorking/crowd_truth_amt.git"}
+crowd-truth-amt = {git = "ssh://git@github.com/ScottIsWorking/crowd_truth_amt.git"}
 seaborn = "*"
 tqdm = "*"
 qgrid = "*"

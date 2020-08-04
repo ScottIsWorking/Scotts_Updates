@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1ed3643af41472cdcb0fc5a641e45476004c73b1b7ddda40471c023c9da877f8"
+            "sha256": "fe03c87fbd2c66b7903b36c008964e304007ec9df63f142472d113f574ded779"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -102,7 +102,6 @@
             "version": "==1.14.1"
         },
         "crowd-truth-amt": {
-            "editable": true,
             "git": "ssh://git@github.com/ScottIsWorking/crowd_truth_amt.git",
             "ref": "49bfc505753d000ea2b827d73e73695afff9c69b"
         },
