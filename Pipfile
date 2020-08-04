@@ -1,0 +1,12 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+crowd-truth-amt = {git = "https://github.com/ScottIsWorking/crowd_truth_amt.git"}
+
+[requires]
+python_version = "3.8"
