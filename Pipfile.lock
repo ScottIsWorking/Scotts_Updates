@@ -103,7 +103,7 @@
         },
         "crowd-truth-amt": {
             "git": "https://github.com/ScottIsWorking/crowd_truth_amt.git",
-            "ref": "3a452645e6a52084323ff3fc5ef67253b10d1654"
+            "ref": "b334b7c01a1ef72981e06229b9f18f775435665b"
         },
         "cycler": {
             "hashes": [
